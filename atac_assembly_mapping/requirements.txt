@@ -1,0 +1,7 @@
+ html
+ matplotlib
+ mysql-python
+ numpy
+ sqlalchemy
+ sqlsoup
+ 
