@@ -1,0 +1,4 @@
+pip 
+setuptools 
+wheel 
+toil[cwl]==3.16.0
