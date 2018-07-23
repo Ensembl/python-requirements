@@ -1,3 +1,7 @@
 Biopython
 pyBigWig
 cwlref-runner
+untangle
+requests
+sqlalchemy
+toil[cwl]
