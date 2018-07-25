@@ -5,3 +5,4 @@ untangle
 requests
 sqlalchemy
 toil[cwl]
+mysqlclient
