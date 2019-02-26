@@ -10,3 +10,4 @@ flask
 cherrypy
 h5py==2.8.0
 pysqlite
+scipy==0.18.1
