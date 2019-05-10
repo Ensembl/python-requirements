@@ -1,5 +1,3 @@
 ete3
 numpy
-qt4
-lxml
 six
