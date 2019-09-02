@@ -5,7 +5,7 @@ prctl
 #  Postgap dependencies
 pybedtools==0.7.4
 requests
-pandas
+pandas==0.24.1
 flask
 cherrypy
 h5py==2.8.0
