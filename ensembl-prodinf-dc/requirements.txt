@@ -1,0 +1,9 @@
+flask
+flasgger
+flask-cors
+flask-wtf
+bootstrap-flask
+requests
+sqlalchemy
+mysqlclient
+gunicorn
