@@ -1,3 +1,4 @@
 setproctitle==1.2.2
 supervisor==4.2.2
 python-dotenv==0.17.1
+jinja2-cli==0.8.2
